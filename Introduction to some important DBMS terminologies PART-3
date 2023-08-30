@@ -1,0 +1,16 @@
+==> Table	- A table is a collection of related records. Each record is stored in a separate row and each field stored in a separate column.
+
+==> Row	- In DBMS language row known as TUPLE.
+
+==> Column 	- Other name of column is- Attribute, Fields, etc.
+
+==> Degree	- Total number of columns is known as degree.
+
+==> Cardinality	- Total number of rows/tuples is known as cardinality.
+
+==> DBMS	- DBMS means database management system which is used to manage the databases and manipulate the databases.
+
+==> File - 	A file is a collection of records. For example,a telephone directory containing records about the different telephone holders is an example of file.
+
+==> Record	- A record is a complete set of data. We can say a record is a complete set of fields and each field have some value. Records are of two types fixed length records and variable length records.
+
