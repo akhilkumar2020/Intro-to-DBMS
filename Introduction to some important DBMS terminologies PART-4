@@ -1,0 +1,23 @@
+==> DBMS Language	
+                  1.	DDL – Create, Drop, Alter, Truncate, Rename.
+                  2.	DML – Select, Insert, Update, Delete.
+                  3.	DCL – Revoke and Grant.
+                  4.	TCL – Rollback and Commit.
+
+==> DBMS 3 Tier Structure	
+                          1.	External level/User level/ External Schema.
+                          2.	Logical level/ Conceptual level/Conceptual Schema.
+                          3.	Internal level/Physical Level/Internal Schema. 
+
+
+==> Mapping - Mapping means the complete process of request and response.When a user raises a query and send to database then this query is fetching into the database record and if result is found regarding to 
+              current query then it provides a response. This process is known as mapping.
+              Types: -
+                      1.	External-Conceptual mapping.
+                      2.	Conceptual- Internal mapping. 
+
+==> Data Independence	- It is way to change or upgrade in any level of schema. If we doing any change at first level then it won’t affect any level of schema.
+
+==> Database Instance	- The data stored in database at a particular moment of time is called instance of database.
+
+==> Schema 	- Skelton of a database is known as schema. Schema provide information about logical structure of a database.
