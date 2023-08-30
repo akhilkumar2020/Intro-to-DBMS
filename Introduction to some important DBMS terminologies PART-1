@@ -1,0 +1,15 @@
+
+==> Traditional File System	- The same data is stored in the computer in different files or locations.
+
+==> Problems in File System	1.	Lack of Security - Less
+                            2.	Data Redundancy – High
+                            3.	Data Dependency – Less
+                            4.	Consistency - Less
+
+==> Data Redundancy 	- It means the same data is stored in the file again and again or we can say that the data is repeating itself again and again. Data redundancy increases the storage space in the computer. 
+
+==> Data Dependency	- Suppose I have the same table, which is stored in different places on the computer. If I want to update some data in one of the tables then the updating process does not affect other remaining tables (other file data is not updated) which means only existing table data is updated rest table data still is unchanged. 
+
+==> Bit 	- A bit is the smallest unit of data in a computer, representing either 0 or 1.
+
+==> Byte	- A byte is a collection of 8 bits, which can represent a single character or number in a computer system.
