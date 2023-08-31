@@ -1,8 +1,8 @@
 HOW TO CREATE A DATABASE 
 
-CREATE  database  databaseName;
+Syntax - CREATE  database  databaseName;
 
-CREATE database Akhil;
+Query - CREATE database Akhil;
 
 Database created successfully
 
